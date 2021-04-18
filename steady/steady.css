@@ -1,0 +1,21 @@
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -100px;
+    background-color: red;
+    width: 400px;
+    height: 200px;
+
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 139px;
+    right: 340px;
+    width: 140px;
+    height: 80px;
+    background-color: green;
+  }
+  
